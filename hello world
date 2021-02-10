@@ -1,0 +1,104 @@
+<!doctype html>
+<html>
+	<head>
+		<title>html subline docs</title>
+	</head>
+	<body>
+		<!-- headings -->
+		<h1>heading one</h1>
+		<h2>heading two</h2>
+		<h3>heading three</h3>
+		<h4>heading four</h4>
+		<h5>heading five</h5>
+		<h6>heading six</h6>
+
+		<! -- paragraph -->
+		<p>
+			Lorem ipsum dolor sit amet, consectetur adipisicing elit, <a href="http://google.com">sed do eiusmod</a>
+			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+			consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+			cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+			proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+		</p>
+
+		<ul>
+			<li>list item 1</li>
+			<li>list item 2</li>
+			<li>list item 3</li>
+			<li>list item 4</li>
+		</ul>
+
+		<ol>
+			<li>list item 1</li>
+			<li>list item 2</li>
+			<li>list item 3</li>
+			<li>list item 4</li>
+		</ol>
+
+		<! -- table -->
+		<table>
+			<thead>
+				<tr>
+					<th>name</th>
+					<th>email</th>
+					<th>age</th>
+				</tr>
+			</thead>
+			<ybody>				
+				<tr>
+					<td>Alexis Vazquez</td>
+					<td>boricua19100@gmail.com</td>
+					<td>48</td>
+				</tr>
+				<tr>
+					<td>Carlos Vazquez</td>
+					<td>boricua19200@gmail.com</td>
+					<td>41</td>
+				</tr>
+				<tr>
+					<td>Josa Vazquez</td>
+					<td>boricua19300@gmail.com</td>
+					<td>38</td>
+				</tr>
+			</tbody>
+		</table>
+
+			<br>
+			<hr>
+			<br>
+
+		<! --forms-- >
+		<form>
+			<div>
+				<label>first name</label>
+			    <input type="text" name="firstName">
+			</div>
+			<br>
+			<div>
+				<label>last name</label>
+				<input type="text" name="lastName">
+			</div>
+			<br>
+			<div>
+				<label>email</label>
+				<input type="email" name="email">
+			</div>
+			<br>
+			<div>
+				<label>message</label>
+				<textarea name"message"></textarea>
+			</div>
+			<br>
+			<div>
+				<label>gender</label>
+				<select name="gender">
+				<option value="male">male</option>
+				</select>
+			</div>
+		</form>
+
+		<-- list -->
+
+	</body>
+</html>

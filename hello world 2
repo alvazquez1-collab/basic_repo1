@@ -1,0 +1,93 @@
+<!doctype html>
+<html>
+	<head>
+		<title>html subline docs</title>
+	</head>
+	<body>
+		<!-- headings -->
+		<h1>Hold on 2 it</h1>
+
+		<! -- paragraph -->
+		<p>
+			All you can shop online with the click of the bottom, including discounts coupons and codes to guarantee best prices on the market just visit our web page <a href="http://google.com"> </a>
+
+		</p>
+
+		<ul>
+			<li>Shoes 1</li>
+			<li>Clothing 2</li>
+			<li>Beauty 3</li>
+			<li>Garden 4</li>
+		</ul>
+
+		<ol>
+			<li>Home 1</li>
+			<li>Personal 2</li>
+			<li>Vehicle 3</li>
+			<li>Outdoor 4</li>
+		</ol>
+
+		<! -- table -->
+		<table>
+			<thead>
+				<tr>
+					<th>name</th>
+					<th>email</th>
+					<th>age</th>
+				</tr>
+			</thead>
+			<ybody>				
+				<tr>
+					<td>Alexis Vazquez</td>
+					<td>boricua19100@gmail.com</td>
+					<td>48</td>
+				</tr>
+				<tr>
+					<td>Carlos Vazquez</td>
+					<td>boricua19200@gmail.com</td>
+					<td>41</td>
+				</tr>
+				<tr>
+					<td>Josa Vazquez</td>
+					<td>boricua19300@gmail.com</td>
+					<td>38</td>
+				</tr>
+			</tbody>
+		</table>
+
+			<br>
+			<hr>
+			<br>
+
+		<! --forms-- >
+		<form>
+			<div>
+				<label>first name</label>
+			    <input type="text" name="firstName">
+			</div>
+			<br>
+			<div>
+				<label>last name</label>
+				<input type="text" name="lastName">
+			</div>
+			<br>
+			<div>
+				<label>email</label>
+				<input type="email" name="email">
+			</div>
+			<br>
+			<div>
+				<label>message</label>
+				<textarea name"message"></textarea>
+			</div>
+			<br>
+			<div>
+				<label>gender</label>
+				<select name="gender">
+				<option value="male">male</option>
+				</select>
+			</div>
+		</form>
+
+	</body>
+</html>
